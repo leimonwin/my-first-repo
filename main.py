@@ -1,6 +1,6 @@
-https://github.com/leimonwin/my-first-repo.gitfrom
+https://github.com/leimonwin/my-first-repo.git
 
-flask import Flask
+from flask import Flask
 import os
 
 app = Flask(__name__)
